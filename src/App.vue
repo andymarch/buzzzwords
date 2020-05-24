@@ -13,7 +13,7 @@
         <v-row class="blurb-row">
           <v-sheet>
             <h2>Why do you need access to my microphone?</h2>
-            <div class="blurb-text">Buzzzwords uses your microphone to listen to the meeting and fill complete your card as it hears the words.
+            <div class="blurb-text">Buzzzwords uses your microphone to listen to the meeting and fill your card as it hears the words (you can always click the word yourself).
             Pressing the mute button above stops the recognition. Remember that you can disallow microphone access through your browser at any time.
             </div>
           </v-sheet>
@@ -33,8 +33,8 @@
           <v-sheet>
             <h2>Why doesn't speech recongition work?</h2>
             <div class="blurb-text">As with all language recognition problems; louder and slower :). If you are not running Chrome or Edge as a browser
-              recongition will not work. This is because the voice recongition API is experimental. See the Mozilla compatibility table <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#Browser_compatibility">
-              here</a>
+              recognition will not work. This is because the voice recognition API is experimental. See the Mozilla compatibility table <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition#Browser_compatibility">
+              here</a>. Artyom is set to debug mode so you can look in the developer console to see what it has recognised.
             </div>
           </v-sheet>
         </v-row>

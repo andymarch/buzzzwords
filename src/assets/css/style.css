@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+
+.blurb-text{
+    padding-left: 10%;
+    padding-right: 10%;
+}

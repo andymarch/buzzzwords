@@ -1,9 +1,46 @@
 body{
     text-align: center;
-    background-color: red;
+
 }
 
-.blurb-text{
+.blurb-row {
+    justify-content:center;
+    padding-bottom: 1.5em;
+}
+
+.gamepanel {
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+.blurb-text {
     padding-left: 10%;
     padding-right: 10%;
 }
+
+.toggled {
+    background: var(--v-primary-base) !important;
+    color: white !important;
+}
+
+.wordcell {
+    border: 1px var(--v-primary-base) solid;
+    cursor: pointer;
+}
+
+.logo {
+    margin-top: 1em;
+}
+.logo-left, .logo-right{
+    font-size: xxx-large;
+    font-weight: 900;
+}
+
+.logo-center {
+    font-size: x-large;
+    color: var(--v-primary-base) !important;
+}
+
+path {
+    fill: transparent;
+  }

@@ -5,8 +5,7 @@
       <v-container>
          <v-row class="blurb-row">
           <v-sheet>
-            <div class="blurb-text">When that meeting is just going too long, and nothing is really
-              being said it's time for bingo!
+            <div class="blurb-text">Is it a meeting or is it marketing?
             </div>
           </v-sheet>
         </v-row>
